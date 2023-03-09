@@ -8,7 +8,7 @@
 4.- Crear un puntero
 5.- Imprimir el contenido del array usando el puntero
 6.- Imprimir las direcciones del contenido del array usando el puntero.
-c++
+
 *******************************************************************************/
 #include <iostream>
 #include <cstdlib>
